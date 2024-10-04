@@ -193,13 +193,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "CopyDatafromAPI",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "CopyDatafromAPI",
 						"type": "DatasetReference"
 					}
 				]
